@@ -1,5 +1,9 @@
 # Ng6
 
+## Projeto de treinamento Angular 6
+
+Utilizando rotas, animações e API REST.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## REST API JSONPlaceholder
